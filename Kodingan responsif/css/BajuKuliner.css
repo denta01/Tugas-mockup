@@ -1,0 +1,139 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+margin-top: 21px;
+}
+.atas{}
+.menu{
+    color: honeydew;
+}
+.menuu{ /*pengaturan menu atas semua(kotak)*/
+    width: 100%;
+    height: 50px;
+    color: white;
+    background: midnightblue;
+    position: fixed;
+    margin-top: -22px;
+}
+
+.menuu h2{
+    float: left;
+    margin-top: 0px;
+    padding: 10px;
+    font-style: italic;
+    font-weight: normal;
+}
+.menu ul{
+    float: right;
+    font-family: sans-serif;
+}
+.menuu ul li{
+    float: left;
+    list-style: none; /* ben gak onok titik e */
+    min-width: 150px;
+    height: 20px;
+    margin-top: -5px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 3px 20px;
+}    
+
+.gambaratas img{
+    width: 100%;
+    height: 500px;
+    margin-top: -200px;
+}
+
+.menu .judul h5{
+    color: black;
+    background: rgba(0, 0, 0, 0.2);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: -3px;
+    padding: 10px 20px; 
+    border-bottom: 1px solid grey;
+
+}
+.menuuu{
+    background-color: red;
+    bottom: 3;
+    background: royalblue;
+    margin-top: 110px;
+    height: 500px;
+}
+.isi{
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid gray;
+}
+.isiaston img{
+    width: 35%;
+    height: auto;
+}
+.isi .isideskripsi{
+    float: right;
+    width: 60%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.isi .isiaston h3{
+
+}
+.isi .isiaston p{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bawah{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background: midnightblue;
+    position:fixed;
+    bottom: 0;
+    margin-bottom: 0px;
+    margin-top: -22px;
+}
+.bawah h5{
+    text-align: center;
+}
